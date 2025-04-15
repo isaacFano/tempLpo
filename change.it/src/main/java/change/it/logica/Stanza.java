@@ -1,5 +1,5 @@
 package change.it.logica;
 
-public interface Stanza {
-
+public class Stanza {
+		
 }
