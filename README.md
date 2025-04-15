@@ -1,3 +1,8 @@
+#token
+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
+
+
+
 # COMPILARE
 
 ```mvn clean compile```
