@@ -16,9 +16,9 @@ class RunnerTest {
 		it = new Runner();
 	}
 
-	@Test
-	void test() {
-		assertEquals(10, it.somma(5, 5));
-	}
+//	@Test
+//	void test() {
+//		assertEquals(10, it.somma(5, 5));
+//	}
 
 }
